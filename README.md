@@ -3,7 +3,7 @@ This repo is for users who are interested in micro-grid analytics. The project h
 Solar Generation side analytics, Load Side Analytics and Model deployment using a web application.
 
 # Analytics and Graphs
-This folder mainly focuses on building models to the Datasets in the folder for forecasting Solar generation and Load requirements.
+This folder is mainly focuses on building models to the Datasets in the folder for forecasting Solar generation and Load requirements.
 Models used are ANNs and LSTMs.
 
 # Web App
